@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> Form Pemesanan Pizza</title>
+</head>
+<body>
+	<h2>Black Gorse | Pizza On-Demand</h2>
+	<p>Our 12" wood-fired pizzas are available for delivery. Build your custom pizza and we'll deliver it within an hour.</p>
+   <hr>
+   <form action="#">
+   		<table>
+			<!--buka head-->
+   			<thead>
+   				<tr>
+   					<th colspan="0"><h3>Your Information</h3></th>
+   				</tr>
+   			</thead>
+   			<!--tutup thead-->
+   		<tbody>
+   			<tr>
+   				<td><label for="">Name</label></td>
+   				<td>: <input type="text" name addres></td>
+   			</tr>
+   			<tr>
+   				<td><label for="">Address</label></td>
+   				<td>: <input type="text" name="address"></td>
+   			</tr>
+   			<tr>
+   				<td><label for="">No Hp</label></td>
+   				<td>: <input type="number" name="Hp"></td>
+
+   			</tr>
+   			<tr>
+   				<td><label for="">Email</label></td>
+   				<td>: <input type="Email" name=""></td>
+   			</tr>
+   			<tr>
+   				<td><label for="">Delivery Instruction</label></td>
+   				<td>: <textarea placeholder="No more than 400 characters long" id="" type="text"></textarea></td>
+   			<tr>
+   		</tbody>
+   		<!--tutup body-->
+   		</table>
+	<br>
+<!--tutup table-->
+
+
+   	<!--buka fieldset-->
+   	<fieldset>
+   		<legend><b>Design Your Dream Pizza</b></legend>
+   		<h4>Crust (Choose One) :</h4>
+   		<ul style="list-style: none;">
+   			<li>
+   				<input type="radio" id="white" name="Crust">
+   				<label for="">Classic White</label>
+   			</li>
+   			<li>
+   				<input type="radio" id="white" name="Crust">
+   				<label for="">Multigrain</label>
+   			</li>
+   			<li>
+   				<input type="radio" id="white" name="Crust">
+   				<label for="">Una Melt</label>
+   			</li>
+   			<li>
+   				<input type="radio" id="white" name="Crust">
+   				<label for="">Gulten-Free</label>
+   			</li>
+   		</ul>
+   		<h4>Crust (Choose One) :</h4>
+   		<ul style="list-style: none;">
+   			<li>
+   				<input type="radio" id="white" name="Crust">
+   				<label for="">With Sauce</label>
+   			</li>
+   			<li>
+   				<input type="radio" id="white" name="Crust">
+   				<label for="">Mozareella</label>
+   			</li>
+   			<li>
+   				<input type="radio" id="white" name="Crust">
+   				<label for="">Mushrooms</label>
+   			</li>
+   			<li>
+   				<input type="radio" id="white" name="Crust">
+   				<label for="">Peppers</label>
+   			</li>
+   		</ul>
+   	</fieldset>
+ </form>
+ <!--tutup form-->
+
+ 		<h4>Number</h4>
+ 		<label for="">How Many Pizza : </label>
+ 		<input type="number" id="jumlah">
+		<br>
+		<br>
+ 		<input type="submit" value="bring me a pizza">
+		<input type="reset"
+	</fieldset>
+</form>
+<!-- tutup form-->
+</body>
+</html>
