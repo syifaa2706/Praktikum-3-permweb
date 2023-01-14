@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Hasil Pemesanan Macbook Air </title>
+</head>
+<body>
+    <form action="form_hasil_pemesanan_barang.html">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <fieldset style="background-color:burlywood">
+    <fieldset style="background-color:gray">
+        <table align="center">
+            <tr>
+                <td width="240"><a href=""> Home     | </td>
+                <td width="240"><a href=""> Register  | </td>
+                <td width="240"><a href=""> Policy    | </td>
+                <td width="240"><a href=""> About     | </td>
+            </tr>
+        </table>
+    </fieldset>
+        <table align="center">
+            <tr>
+                <td><label for="Title Here"> Title Here :</label></td>
+                <td><input type="text" placeholder="Macbook Air E-800"></td>
+            </tr>
+            <tr>
+                <td><label for="Description"> Description : </label></td>
+                <td><textarea placeholder="Year : 2009" colspan="2" placeholder="Model: Condition: Mint"></textarea></td>
+            </tr>
+            <tr>
+                <td><label for="Account Number"> Account Number : </label></td>
+                <td><input type="number" placeholder="123-456-789-0"></td>
+            </tr>
+            <tr>
+                <td><label for="Bank"> Bank : </label></td>
+                <td><input type="text" placeholder="HBSC"><select></select></td>
+            </tr>
+            <tr>
+                <td><label for="Account Holder"> Account Holder : </label></td>
+                <td><input type="text" placeholder="Name Here"></td>
+            </tr>
+            <tr>
+                <td><label for="Transaction"> Transaction : </label></td>
+                <td><input type="number" id="Transaction"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>* if transaction is for 3 person, choose 3 from the drop-down list</td>
+            </tr>
+            <br>
+            <br>
+            <img src="macbook air.jpeg" height="150" align="left">
+        </table>
+        <table>
+            <tr>
+                <button style="background-color:rgb(242, 204, 80)" type="button" align="left"> Upload Picture </button>
+                <td width="420"></td>
+                <td></td>
+                <td style="background-color:rgb(108, 188, 99)"><input type="checkbox"> Send To Mobile Phone </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td style="background-color:rgb(109, 220, 120)"><input type="checkbox"> Send To Email </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><label for="Mobile Phone"> Send To Mobile Phone : </label></td>
+                <td><input type="number" placeholder="1234567890,1234567891"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><label for="Email"> Send To Email : </label></td>
+                <td><input type="email" placeholder="mfmm2g13@soton.ac.uk, fys_06@yahoo.com"></textarea></td>
+            </tr>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td><button style="background-color:rgb(83, 192, 37)" type="submit"> Play Using Quad Link</button></td>
+            </tr>
+        </table>
+    </fieldset>
+    </form>
+</body>
+</html>
