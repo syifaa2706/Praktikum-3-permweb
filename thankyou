@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> Thankyou</title>
+</head>
+<body style="background-color:bisque;">
+   <centerr><div style="width: 700px; height:500px;background-color: bisque; margin-left:20px;">
+        <br>
+    <h1 align="center">THANK YOU</h1> 
+    <hr>
+   <p> Thankyou for ordering from Black Goose Bistro. 
+    We have received the following information about order:</p>
+
+        <p>
+        <table>
+        <thead>
+            <tr>
+                <th colspan="2"> Your Information </th>
+            </tr>
+
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><b>Name</b></td>
+                <td>:Khoirunnisa Syifa Fadilah</td>
+            </tr>
+            <tr>
+                <td><b>Address</b></td>
+                <td>:Perumahan Griya Bukit Jaya Bogor</td>
+            </tr>
+            <tr>
+                <td><b>Telephone Number</b></td>
+                <td>: 089765843212 </td>
+            </tr>
+            <tr>
+                <td><b>Email Address</b></td>
+                <td>: syifaa14@gmail.com</td>
+            </tr>
+        </tbody>
+        </table>
+        </p>
+        <p><b>Delivery Instructions:</b>Ring The middele buzzer, if nobody answers, text me.</p>
+            <table>
+                <thead>
+                    <tr>
+                    <th colspan="2">Your Pizza</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><b>Crust</b></td>
+                    <td>: White</td>
+                </tr>
+                <tr>
+                    <td><b>Toppings</b></td>
+                    <td>:Mozzarella, Red Sauce</td>
+                </tr>
+                <tr>
+                    <td><b>Amount</b></td>
+                    <td>:5</td>
+                </tr>
+            </tbody>
+
+        </table>
+        <hr>
+        <p>This site is for educational purposes only.
+            No Pizzas will be delivered.</p>
+        </body>
+        </html>
+
+
+
+        </tbody>
+    
+    
